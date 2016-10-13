@@ -1,0 +1,10 @@
+!SESSION 2016-10-12 23:32:02.197 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-10-12 23:33:13.619
+!MESSAGE Indexed 'Shielding_test' (25 sources, 84 headers) in 2.79 sec: 6,056 declarations; 31,427 references; 0 unresolved inclusions; 69 syntax errors; 0 unresolved names (0%)
